@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193973983024",
+    "project_id": "pet-sell-app",
+    "storage_bucket": "pet-sell-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193973983024:android:4b77d760508cce6ac61af5",
+        "android_client_info": {
+          "package_name": "com.example.pet_sell_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHupDNjnVhGb3fapN4-Akd45Or3ceEPYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
